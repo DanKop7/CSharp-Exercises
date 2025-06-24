@@ -10,3 +10,6 @@ Prints a name on the first line and the result of the expression 5 + 3 on the se
 ## 04. Calculations  
 Calculates and prints the results of three different arithmetic expressions.
 
+## 05. Greeting  
+Reads a name from the console and prints a greeting in the format "Hello {name}".
+
