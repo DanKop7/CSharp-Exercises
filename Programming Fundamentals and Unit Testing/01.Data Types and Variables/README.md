@@ -19,3 +19,8 @@ This program reads the customer's first name, last name, and email from the cons
 ### 07. Person Info  
 This program reads four lines from the console: first name, last name, country, and town. It then prints a message in the format:  
 `{first name} {last name} from {country} – {town}!`
+
+## 08. Town Info
+The program reads two lines of input from the console: the name of a town and a country. It then prints a message in the format:
+`"{town name} is in {country}"`
+
