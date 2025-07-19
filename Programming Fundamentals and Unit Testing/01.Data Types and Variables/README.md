@@ -13,10 +13,10 @@ Calculates and prints the results of three different arithmetic expressions.
 ## 05. Greeting  
 Reads a name from the console and prints a greeting in the format "Hello {name}".
 
-### 06. Customer Info  
+## 06. Customer Info  
 This program reads the customer's first name, last name, and email from the console, and then prints a formatted message containing the full name and the email.
 
-### 07. Person Info  
+## 07. Person Info  
 This program reads four lines from the console: first name, last name, country, and town. It then prints a message in the format:  
 `{first name} {last name} from {country} – {town}!`
 
