@@ -27,3 +27,7 @@ The program reads two lines of input from the console: the name of a town and a 
 ## 09. Days to Minutes  
 Reads a number of days from the console, converts them to minutes (1 day = 24 hours × 60 minutes), and prints the result in the format:  
 `Minutes = {calculated minutes}`
+
+## 10. Calculate Speed  
+Reads two floating-point numbers: distance and time.  
+Calculates the speed as `distance / time` and prints the result formatted to two decimal places.
