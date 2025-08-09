@@ -24,3 +24,6 @@ This program reads four lines from the console: first name, last name, country, 
 The program reads two lines of input from the console: the name of a town and a country. It then prints a message in the format:
 `"{town name} is in {country}"`
 
+## 09. Days to Minutes  
+Reads a number of days from the console, converts them to minutes (1 day = 24 hours × 60 minutes), and prints the result in the format:  
+`Minutes = {calculated minutes}`
