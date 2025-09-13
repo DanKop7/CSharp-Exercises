@@ -13,4 +13,7 @@ Calculates the total cost and prints the result formatted to two decimal places.
 Reads the bathroom width and height, and the tile width and height.  
 Calculates how many tiles are needed (with 10% surplus) and prints the result rounded to the nearest integer.  
 
+## 5. Deposit Calculator  
+Reads the deposited amount, the term of the deposit in months, and the annual interest rate.  
+Calculates and prints the total amount at the end of the deposit period, formatted to two decimal places.  
 
