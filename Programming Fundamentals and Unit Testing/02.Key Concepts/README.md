@@ -21,7 +21,7 @@ Calculates and prints the total amount at the end of the deposit period, formatt
 Reads the number of book pages, the number of pages read per hour, and the number of days to finish the book.  
 Calculates and prints the required reading hours per day.  
 
-## 7. Supplies for School  
+## 07. Supplies for School  
 Calculates the total cost of school supplies based on the number of pen packs, marker packs, and liters of board cleaner.  
 Applies a discount percentage to the total amount and prints the final price.
 
