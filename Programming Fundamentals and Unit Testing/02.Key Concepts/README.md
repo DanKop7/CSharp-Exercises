@@ -17,3 +17,8 @@ Calculates how many tiles are needed (with 10% surplus) and prints the result ro
 Reads the deposited amount, the term of the deposit in months, and the annual interest rate.  
 Calculates and prints the total amount at the end of the deposit period, formatted to two decimal places.  
 
+## 6. Mandatory Literature  
+Reads the number of book pages, the number of pages read per hour, and the number of days to finish the book.  
+Calculates and prints the required reading hours per day.  
+
+
