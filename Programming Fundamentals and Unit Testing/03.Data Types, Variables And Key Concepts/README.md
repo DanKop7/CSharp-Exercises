@@ -4,7 +4,7 @@ Reads three floating-point numbers from the console and prints them in reversed 
 ## 02. Centuries to Minutes  
 Reads an integer representing centuries and converts it to years, days, hours, and minutes.  
 
-## 3. Redecorating  
+## 03. Redecorating  
 Calculates the total renovation cost based on the required materials and hours of work.  
 It reads the quantities of nylon, paint, thinner, and the number of work hours, then applies price rates and extra material calculations.  
 
