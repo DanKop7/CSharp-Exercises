@@ -28,6 +28,11 @@ Calculates the total expenses for Jesse to start playing basketball.
 Reads the annual basketball training fee and computes the costs for sneakers, uniform, ball, and accessories.  
 Prints the total sum Jesse will spend on the equipment.  
 
+## 6. Aquarium  
+Reads the length, width, and height of an aquarium in centimeters, as well as the percentage of its capacity occupied by sand, plants, heater, and pump.  
+Calculates and prints the liters of water needed to fill the aquarium, formatted to two decimal places.
+
+
 
 
 
