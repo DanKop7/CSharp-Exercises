@@ -16,7 +16,7 @@ The program:
 
 Finally, it prints the total amount needed for the entire renovation.  
 
-## 4. Food Delivery  
+## 04. Food Delivery  
 Calculates the total cost of a food delivery order.  
 
 Reads the number of chicken menus, fish menus, and vegetarian menus.  
