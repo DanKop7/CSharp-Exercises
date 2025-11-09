@@ -23,7 +23,7 @@ Reads the number of chicken menus, fish menus, and vegetarian menus.
 Calculates the total menu cost, adds a dessert equal to 20% of the total menu cost, and finally adds the delivery price of 2.50 BGN.  
 Prints the total order price.
 
-## 5. Basketball Equipment  
+## 05. Basketball Equipment  
 Calculates the total expenses for Jesse to start playing basketball.  
 Reads the annual basketball training fee and computes the costs for sneakers, uniform, ball, and accessories.  
 Prints the total sum Jesse will spend on the equipment.  
