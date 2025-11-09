@@ -16,6 +16,14 @@ The program:
 
 Finally, it prints the total amount needed for the entire renovation.  
 
+## 4. Food Delivery  
+Calculates the total cost of a food delivery order.  
+
+Reads the number of chicken menus, fish menus, and vegetarian menus.  
+Calculates the total menu cost, adds a dessert equal to 20% of the total menu cost, and finally adds the delivery price of 2.50 BGN.  
+Prints the total order price.
+
+
 
 
 
