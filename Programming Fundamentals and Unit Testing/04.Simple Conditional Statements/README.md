@@ -6,7 +6,7 @@ If the temperature is 0 or below, prints `"Freezing weather!"`. Otherwise, no ou
 Reads an integer number from the console and checks whether it is even or odd.  
 Prints `"even"` if the number is divisible by 2, otherwise prints `"odd"`.
 
-## 3. Number 1-9 as Words  
+## 03. Number 1-9 as Words  
 Reads an integer number and prints its word representation if it is between 1 and 9.  
 Prints "Out of range" if the number is not in the range [1 - 9].  
 
