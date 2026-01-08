@@ -10,4 +10,7 @@ Prints `"even"` if the number is divisible by 2, otherwise prints `"odd"`.
 Reads an integer number and prints its word representation if it is between 1 and 9.  
 Prints "Out of range" if the number is not in the range [1 - 9].  
 
+## 4. Greater Number  
+Reads two integer numbers from the console, compares them, and prints the greater one in the format:  
+`Greater number: {greater number value}`
 
