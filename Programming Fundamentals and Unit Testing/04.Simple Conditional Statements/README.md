@@ -14,6 +14,6 @@ Prints "Out of range" if the number is not in the range [1 - 9].
 Reads two integer numbers from the console, compares them, and prints the greater one in the format:  
 `Greater number: {greater number value}`
 
-## 5. Guess the Password  
+## 05. Guess the Password  
 Reads a password from the console and checks whether it matches the expected value.  
 Prints **"Welcome"** if the password is correct, otherwise prints **"Wrong password!"**.
