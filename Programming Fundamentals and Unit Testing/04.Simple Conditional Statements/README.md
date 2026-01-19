@@ -17,3 +17,7 @@ Reads two integer numbers from the console, compares them, and prints the greate
 ## 05. Guess the Password  
 Reads a password from the console and checks whether it matches the expected value.  
 Prints **"Welcome"** if the password is correct, otherwise prints **"Wrong password!"**.
+
+## 6. Boiling Water  
+Reads the water temperature in degrees Celsius and checks whether it is boiling.  
+Prints a message depending on whether the temperature is greater than 100 degrees.
