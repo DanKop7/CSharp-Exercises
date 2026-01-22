@@ -21,3 +21,7 @@ Prints **"Welcome"** if the password is correct, otherwise prints **"Wrong passw
 ## 06. Boiling Water  
 Reads the water temperature in degrees Celsius and checks whether it is boiling.  
 Prints a message depending on whether the temperature is greater than 100 degrees.
+
+## 7. Speed Info  
+Reads a floating-point number representing speed.  
+Prints **"Slow"** if the speed is less than or equal to 30, or **"Fast"** if the speed is greater than 30.
