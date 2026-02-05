@@ -26,6 +26,6 @@ Prints a message depending on whether the temperature is greater than 100 degree
 Reads a floating-point number representing speed.  
 Prints **"Slow"** if the speed is less than or equal to 30, or **"Fast"** if the speed is greater than 30.
 
-## 8. Ticket Price  
+## 08. Ticket Price  
 Reads a ticket type as a string ("student" or "regular") from the console.  
 Calculates and prints the price in the format `${price}`. If the input does not match the predefined types, prints `"Invalid ticket type!"`.
