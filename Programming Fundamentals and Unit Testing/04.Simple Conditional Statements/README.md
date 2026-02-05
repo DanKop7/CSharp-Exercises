@@ -29,3 +29,7 @@ Prints **"Slow"** if the speed is less than or equal to 30, or **"Fast"** if the
 ## 08. Ticket Price  
 Reads a ticket type as a string ("student" or "regular") from the console.  
 Calculates and prints the price in the format `${price}`. If the input does not match the predefined types, prints `"Invalid ticket type!"`.
+
+## 09. Valid Triangle  
+Reads three integer numbers representing the sides of a triangle.  
+Checks whether the sides satisfy the triangle inequality theorem and prints `"Valid Triangle"` if they can form a triangle, otherwise prints `"Invalid Triangle"`.
