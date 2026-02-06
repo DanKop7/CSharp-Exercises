@@ -6,6 +6,6 @@ Checks the price based on the selected product and day, then prints the result t
 Reads three integer numbers from the console.  
 Compares the numbers and prints the largest one among them.
 
-## 3. Bonus Score  
+## 03. Bonus Score  
 Reads an integer number representing points from the console.  
 Calculates and adds bonus points based on specific ranges (0-3, 4-6, or 7-9) and prints the final score.
