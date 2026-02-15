@@ -17,3 +17,7 @@ Categorizes the input into `"food"`, `"drink"`, or `"unknown"` based on a predef
 ## 05. Invalid Number  
 Reads an integer from the console.  
 A number is considered valid if it is within the range [100...200] or equals 0. If the entered number does not meet these criteria, the program prints `"invalid"`.
+
+## 6. Day of Week  
+Reads an integer from the console representing the day of the week (1-7).  
+Uses a switch statement to print the corresponding day name (e.g., 1 for `"Monday"`) or `"Error"` if the input is outside the valid range.
