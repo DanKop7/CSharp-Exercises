@@ -25,3 +25,10 @@ Uses a switch statement to print the corresponding day name (e.g., 1 for `"Monda
 ## 07. Vowel or Consonant  
 Reads a single character from the English alphabet from the console.  
 Checks whether the character is a vowel (A, E, I, O, U in both cases) or a consonant and prints `"Vowel"` or `"Consonant"` accordingly.
+
+## 08. Sorted Numbers  
+Reads three integer numbers from the console.  
+Checks the order of the numbers and prints:  
+- `"Ascending"` if they are in increasing order.  
+- `"Descending"` if they are in decreasing order.  
+- `"Not sorted"` for any other case.
