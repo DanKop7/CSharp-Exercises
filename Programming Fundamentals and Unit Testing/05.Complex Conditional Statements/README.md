@@ -32,3 +32,8 @@ Checks the order of the numbers and prints:
 - `"Ascending"` if they are in increasing order.  
 - `"Descending"` if they are in decreasing order.  
 - `"Not sorted"` for any other case.
+
+## 09. Cinema  
+Calculates the total profit for a cinema screening based on the movie type and seating capacity.  
+- Reads the movie type (`"Premiere"`, `"Normal"`, or `"Discount"`), the number of rows, and the number of seats per row.  
+- Calculates the total income by multiplying the total seats by the specific ticket price and prints the result formatted to two decimal places.
