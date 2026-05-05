@@ -12,6 +12,6 @@ Simulates a basic ATM withdrawal process by checking the account balance and the
   - `"The limit was exceeded."` if the withdrawal amount is greater than the daily limit.  
   - `"Insufficient availability."` if the account balance is less than the requested amount.
 
-## 3. Biggest of Five Numbers  
+## 03. Biggest of Five Numbers  
 Reads five integer numbers from the console and identifies the largest one.  
 The program compares all five inputs and prints the maximum value.
