@@ -15,3 +15,7 @@ Simulates a basic ATM withdrawal process by checking the account balance and the
 ## 03. Biggest of Five Numbers  
 Reads five integer numbers from the console and identifies the largest one.  
 The program compares all five inputs and prints the maximum value.
+
+## 4. Number Operations  
+Reads two real numbers and a mathematical operator (`+`, `-`, `*`, `/`) from the console.  
+The program performs the requested operation and prints the result in the format: `{N1} {operator} {N2} = {result}`, with the result formatted to the second decimal place.
